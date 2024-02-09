@@ -9,6 +9,8 @@ catalog: true
 tags:
     - blog 
 ---
+## 整个学习流程的workflow
+语雀为主要的工作空间，导出md->vscode->博客
 
 follower 即可[https://github.com/qiubaiying/qiubaiying.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B#%E4%BF%AE%E6%94%B9%E4%BB%93%E5%BA%93%E5%90%8D](https://github.com/qiubaiying/qiubaiying.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B#%E4%BF%AE%E6%94%B9%E4%BB%93%E5%BA%93%E5%90%8D)
 搭建完的博客地址
