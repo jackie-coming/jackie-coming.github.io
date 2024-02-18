@@ -63,7 +63,7 @@ kramdown:
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: cd3266a16a64d649898d                            #生成的clientID
-  clientSecret: c40abae20227c059da32d942ea4c73c8c28d7815    #生成的clientSecret
+  clientSecret: 243879    #生成的clientSecret
   repo: jackie-coming.github.io    #仓库名称
   owner: jackie-coming   #github用户名
   admin: jackie-coming
